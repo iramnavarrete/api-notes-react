@@ -1,0 +1,30 @@
+{
+    "name":"Job 1",
+    "publishDate": "Thu Apr 02 2020 11:25:22",
+    "startedDate":"Thu Apr 02 2020 11:25:22",
+    "finishedDate":"Thu Apr 02 2020 11:25:22",
+    "dueDate":"Thu Apr 02 2020 11:25:22",
+    "isActive": true,
+    "workers": [
+        {
+            "_id":"5e7ce2971e765b0d83316268",
+            "rate":5
+        }
+    ],
+    "description": "Lorem ipsum",
+    "employer": [
+        {
+            "_id":"5e7ce2971e765b0d83316268",
+            "rate":5
+        }
+    ],
+    "amountPayment": 1500,
+    "description_img": "jsdhfoishfi/prof_image.jpg",
+    "category": "Jardineria",
+    "point": {
+        "lat": 28.609116,
+        "lng": -106.0640969
+    },
+    "maxWorkers": 2,
+    "done": false
+}

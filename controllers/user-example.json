@@ -1,0 +1,23 @@
+{
+    "displayName": "Alonso Salcido",
+    "profile" : {
+        "name": "Alonso",
+        "lastname": "Salcido",
+        "email": "alonsosalcido13@gmail.com",
+        "password": "hola123",
+        "phone": "6143983070",
+        "birthDate": "03-02-1991",
+        "address": {
+            "street":  "44 5614",
+            "city":  "Chihuahua",
+            "state":  "Chihuahua",
+            "zipCode": "31054" 
+        },
+        "gender": "masculino",
+        "maritalStatus": "soltero",
+        "profileImg": "alonso_profile",
+        "degree":"licenciatura",
+        "roles": "admin"
+    },
+    "terms": true
+}

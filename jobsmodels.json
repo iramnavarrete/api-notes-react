@@ -1,0 +1,232 @@
+{ 
+    "_id" : "4r5KfQQGuiXWknAtx", 
+    "name" : "Trapear", 
+    "publishDate" : "Thu Apr 02 2020 11:25:22", 
+    "startedDate" : "Thu Apr 02 2020 11:25:22", 
+    "finishedDate" : "Thu Apr 02 2020 11:25:22", 
+    "dueDate" : "Thu Apr 02 2020 11:25:22", 
+    "isActive" : true, 
+    "workers" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }, 
+        {
+            "_id" : "5ec26cb5d0e405d5957c0a8f"
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "description" : "Lorem ipsum", 
+    "employer" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "amountPayment" : NumberInt(1500), 
+    "description_img" : "jsdhfoishfi/prof_image.jpg", 
+    "category" : "Jardineria", 
+    "point" : {
+        "_id" : ObjectId("5ec26cb5d0e405d5957c0a8f"), 
+        "lat" : 28.609116, 
+        "lng" : -106.0640969
+    }, 
+    "maxWorkers" : NumberInt(2), 
+    "done" : false
+}
+{ 
+    "_id" : "xtwNeJTo4J6d2oKYq", 
+    "name" : "Bañar al gato", 
+    "publishDate" : "Thu Apr 02 2020 11:25:22", 
+    "startedDate" : "Thu Apr 02 2020 11:25:22", 
+    "finishedDate" : "Thu Apr 02 2020 11:25:22", 
+    "dueDate" : "Thu Apr 02 2020 11:25:22", 
+    "isActive" : true, 
+    "workers" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }, 
+        {
+            "_id" : "5e7ce2971e765b0d83316268"
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "description" : "Lorem ipsum", 
+    "employer" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "amountPayment" : NumberInt(1500), 
+    "description_img" : "jsdhfoishfi/prof_image.jpg", 
+    "category" : "Jardineria", 
+    "point" : {
+        "_id" : ObjectId("5ec26f46d0e405d5957c0a9a"), 
+        "lat" : 28.609116, 
+        "lng" : -106.0640969
+    }, 
+    "maxWorkers" : NumberInt(2), 
+    "done" : false
+}
+{ 
+    "_id" : "j8WBoq3ngt7XQY42s", 
+    "name" : "Dar comida al pescado", 
+    "publishDate" : "Thu Apr 02 2020 11:25:22", 
+    "startedDate" : "Thu Apr 02 2020 11:25:22", 
+    "finishedDate" : "Thu Apr 02 2020 11:25:22", 
+    "dueDate" : "Thu Apr 02 2020 11:25:22", 
+    "isActive" : true, 
+    "workers" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "description" : "Lorem ipsum", 
+    "employer" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "amountPayment" : NumberInt(1500), 
+    "description_img" : "jsdhfoishfi/prof_image.jpg", 
+    "category" : "Jardineria", 
+    "point" : {
+        "_id" : ObjectId("5ec331871cccaa3d6352e354"), 
+        "lat" : 28.609116, 
+        "lng" : -106.0640969
+    }, 
+    "maxWorkers" : NumberInt(2), 
+    "done" : false
+}
+{ 
+    "_id" : "8ZZEKKbSFocX7taZm", 
+    "name" : "Perrear", 
+    "publishDate" : "Thu Apr 02 2020 11:25:22", 
+    "startedDate" : "Thu Apr 02 2020 11:25:22", 
+    "finishedDate" : "Thu Apr 02 2020 11:25:22", 
+    "dueDate" : "Thu Apr 02 2020 11:25:22", 
+    "isActive" : true, 
+    "workers" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "description" : "Lorem ipsum", 
+    "employer" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "amountPayment" : NumberInt(1500), 
+    "description_img" : "jsdhfoishfi/prof_image.jpg", 
+    "category" : "Jardineria", 
+    "point" : {
+        "_id" : ObjectId("5ec331971cccaa3d6352e355"), 
+        "lat" : 28.609116, 
+        "lng" : -106.0640969
+    }, 
+    "maxWorkers" : NumberInt(2), 
+    "done" : false
+}
+{ 
+    "_id" : "38z7GNLjKpFoqZCLY", 
+    "name" : "Comprar mandado", 
+    "publishDate" : "Thu Apr 02 2020 11:25:22", 
+    "startedDate" : "Thu Apr 02 2020 11:25:22", 
+    "finishedDate" : "Thu Apr 02 2020 11:25:22", 
+    "dueDate" : "Thu Apr 02 2020 11:25:22", 
+    "isActive" : true, 
+    "workers" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "description" : "Lorem ipsum", 
+    "employer" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "amountPayment" : NumberInt(1500), 
+    "description_img" : "jsdhfoishfi/prof_image.jpg", 
+    "category" : "Jardineria", 
+    "point" : {
+        "_id" : ObjectId("5ec3319f1cccaa3d6352e356"), 
+        "lat" : 28.609116, 
+        "lng" : -106.0640969
+    }, 
+    "maxWorkers" : NumberInt(2), 
+    "done" : false
+}
+{ 
+    "_id" : "8eKwJspdhykFy8CdS", 
+    "name" : "Trabajos sexuales", 
+    "publishDate" : "Thu Apr 02 2020 11:25:22", 
+    "startedDate" : "Thu Apr 02 2020 11:25:22", 
+    "finishedDate" : "Thu Apr 02 2020 11:25:22", 
+    "dueDate" : "Thu Apr 02 2020 11:25:22", 
+    "isActive" : true, 
+    "workers" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "description" : "Lorem ipsum", 
+    "employer" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "amountPayment" : NumberInt(1500), 
+    "description_img" : "jsdhfoishfi/prof_image.jpg", 
+    "category" : "Jardineria", 
+    "point" : {
+        "_id" : ObjectId("5ec3334c1cccaa3d6352e362"), 
+        "lat" : 28.609116, 
+        "lng" : -106.0640969
+    }, 
+    "maxWorkers" : NumberInt(2), 
+    "done" : true
+}
+{ 
+    "_id" : "WJZp9qcftCLTGwSdX", 
+    "name" : "Cuidar niños", 
+    "publishDate" : "Thu Apr 02 2020 11:25:22", 
+    "startedDate" : "Thu Apr 02 2020 11:25:22", 
+    "finishedDate" : "Thu Apr 02 2020 11:25:22", 
+    "dueDate" : "Thu Apr 02 2020 11:25:22", 
+    "isActive" : true, 
+    "workers" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "description" : "Lorem ipsum", 
+    "employer" : [
+        {
+            "_id" : "5e7ce2971e765b0d83316268", 
+            "rate" : NumberInt(5)
+        }
+    ], 
+    "amountPayment" : NumberInt(1500), 
+    "description_img" : "jsdhfoishfi/prof_image.jpg", 
+    "category" : "Jardineria", 
+    "point" : {
+        "_id" : ObjectId("5ec333541cccaa3d6352e363"), 
+        "lat" : 28.609116, 
+        "lng" : -106.0640969
+    }, 
+    "maxWorkers" : NumberInt(2), 
+    "done" : true
+}
